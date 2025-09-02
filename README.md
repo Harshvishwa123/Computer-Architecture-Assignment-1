@@ -15,3 +15,5 @@ Contents:
 4. plots/  
    - Folder containing visual plots generated from simulation data.
    - Graphs include IPC vs. cache size, miss rate trends, and comparative performance charts.
+
+
